@@ -1,4 +1,4 @@
-# 🌸 こんにちは !
+# 🌸 こんにちは ! 🌸
 
 <img src="/cat-cat-on-computer.gif" align="left" width="300" height="260"/>
 
