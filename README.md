@@ -12,4 +12,4 @@
 
 ###### \>> `Tools & technologies:` HTML | CSS | UML | AutoCAD | Microsoft Office / LibreOffice
  
-###### ★ Reach me at [`Linkedin`](https://www.linkedin.com/in/luciana-villa-3b1b1334b/) | [`Gmail`](mailto:luuvilla927@gmail.com)★
+###### ★ Reach me at [`Linkedin`](https://www.linkedin.com/in/luciana-villa-3b1b1334b/) | [`Gmail`](mailto:luuvilla927@gmail.com) ★
