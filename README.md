@@ -10,6 +10,6 @@
 
 ###### \>> `Languages:` C++ | Python | JavaScript | Verilog
 
-###### \>> `Tools & technologies:` HTML | CSS | UML | AutoCAD | Microsoft Office / LibreOffice
+###### \>> `Tools & technologies:` HTML | CSS | UML | AutoCAD
  
 ###### ★ Reach me at [`Linkedin`](https://www.linkedin.com/in/luciana-villa-3b1b1334b/) | [`Gmail`](mailto:luuvilla927@gmail.com) ★
